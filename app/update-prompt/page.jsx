@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import connectToDB from "@utils/database";
 import Prompt from "@models/prompt.model";
-import UpdatePromptClient from "./UpdatePromptClient";
+import UpdatePromptClient from "../../components/UpdatePromptClient";
 
 export default async function UpdatePrompt({ searchParams }) {
   const { id } = searchParams;
