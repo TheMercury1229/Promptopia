@@ -1,7 +1,7 @@
 # **Promptopia** 🌟  
 _A creative hub for sharing and discovering amazing prompts!_
 
-![Promptopia Banner](https://via.placeholder.com/1200x400?text=Promptopia+-+Share+and+Discover+Prompts)
+
 
 ## **About**  
 **Promptopia** is a modern web application designed for prompt enthusiasts. Users can post, explore, and tag prompts, creating a vibrant community for creative inspiration. With a clean UI and robust functionality, Promptopia is the go-to platform for all your prompt needs.
@@ -106,4 +106,4 @@ Have questions or feedback? Reach out to us:
 ---
 
 🌟 **Star this repository** if you found it helpful!  
-Made with ❤️ by [Mercury].
+Made with ❤️ by Mercury.
